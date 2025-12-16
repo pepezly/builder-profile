@@ -1,27 +1,67 @@
-# DanyZly - Web3 Builder Profile
+# Builder Profile
 
-## Descripción
-Soy un **Builder** con experiencia en el desarrollo y despliegue de contratos inteligentes y aplicaciones descentralizadas (dApps) en plataformas como **Base**, **Celo**, **Optimism**, **Ethereum** y otras redes emergentes. Mi enfoque está en la construcción de soluciones escalables y seguras en el ecosistema blockchain.
+This repository represents my public **onchain builder profile**.
 
-## Proyectos Destacados
-- **CastMint**: Plataforma multichain para mint de NFTs en redes como Base, Celo, y Optimism.
-- **BuilderBadge**: Contratos inteligentes y aplicaciones para la gestión de **badges** en blockchain.
+It is intentionally minimal and does not host active projects.  
+Its purpose is to document my technical focus, experience, and builder mindset.
 
-## Herramientas
-- **Solidity**
-- **Hardhat, Foundry**
-- **GitHub, GitLab**
-- **Remix IDE**
+---
 
-## Redes Sociales y Contacto
-- **Twitter**: [@danyzly](https://twitter.com/danyzly)
-- **Discord**: `danyzly#1234`
-- **LinkedIn**: [Dany Zly](https://www.linkedin.com/in/danyzly)
+## Focus Areas
 
-## Contribuciones y Actividades
-- Participante activo en el programa **Base Builder**.
-- Airdrops y campañas de **BuilderScore** en redes como Celo y Soneium.
-- Mentoría y colaboración en proyectos de la comunidad Web3.
+- Smart contract development
+- NFT standards and tooling
+- Multi-chain ecosystems
+- Onchain experimentation
+- Builder reputation and identity
 
-## Licencia
-MIT License.
+---
+
+## Technical Experience
+
+- Solidity (EVM-compatible chains)
+- Contract deployment and interaction
+- NFT minting mechanics and metadata standards
+- Onchain tooling and developer workflows
+
+---
+
+## Ecosystems
+
+- Base
+- Celo
+- Optimism
+- Ethereum
+
+---
+
+## Tools & Stack
+
+- Solidity
+- Remix
+- Hardhat
+- Foundry
+- Git & GitHub
+- IPFS-compatible storage
+- EVM wallets and onchain explorers
+
+---
+
+## Builder Philosophy
+
+- Learn by building
+- Favor clarity over complexity
+- Onchain first, offchain minimal
+- Long-term reputation over short-term incentives
+
+---
+
+## Presence
+
+- X (Twitter): https://x.com/OrmatMs1
+- GitHub: https://github.com/pepezly
+- https://discord.com/@ppzly
+
+---
+
+This profile will evolve over time as my builder journey progresses.
